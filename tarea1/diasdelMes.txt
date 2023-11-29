@@ -1,0 +1,14 @@
+Proceso diasdelMes
+	Escribir 'Qué mes quiere consultar (1-12)';
+	Leer mes;
+	Si mes<0 O mes>13 Entonces
+		Según mes Hacer
+			1, 3, 5, 7, 8, 9, 10, 12:
+				Escribir '31 dias';
+			2:
+				Escribir '28 o 29 dias';
+			4, 6, 9, 11:
+				Escribir '30 dias';
+		FinSegún
+	FinSi
+FinProceso
