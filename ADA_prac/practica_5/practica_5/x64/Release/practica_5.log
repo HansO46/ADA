@@ -1,0 +1,10 @@
+﻿  practica_5.cpp
+D:\ADA_practicas - copia\practica_5\practica_5\practica_5.cpp(36,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código
+D:\ADA_practicas - copia\practica_5\practica_5\practica_5.cpp(99): error C4716: 'sumarElementosMatriz': debe devolver un valor
+D:\ADA_practicas - copia\practica_5\practica_5\practica_5.cpp(121): error C4716: 'sumarImparesMatriz': debe devolver un valor
+D:\ADA_practicas - copia\practica_5\practica_5\practica_5.cpp(110): error C4716: 'sumarParesMatriz': debe devolver un valor
+  19 of 20 functions (95.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+LINK : fatal error LNK1257: error de generación de código

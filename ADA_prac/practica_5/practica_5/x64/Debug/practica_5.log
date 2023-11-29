@@ -1,0 +1,21 @@
+﻿  practica_5.cpp
+D:\ADA_practicas\practica_5\practica_5\practica_5.cpp(38,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\ADA_practicas\practica_5\practica_5\practica_5.cpp(37,1): message : al compilar la función del miembro clase plantilla "int NeuralLayer<T>::size(void) const"
+          with
+          [
+              T=double
+          ]
+D:\ADA_practicas\practica_5\practica_5\practica_5.cpp(60,13): message : Vea la referencia a la creación de una instancia de la función plantilla "int NeuralLayer<T>::size(void) const" que se está compilando
+          with
+          [
+              T=double
+          ]
+D:\ADA_practicas\practica_5\practica_5\practica_5.cpp(60,29): message : Vea la referencia a la creación de una instancia de clase plantilla "NeuralLayer<T>" que se está compilando
+          with
+          [
+              T=double
+          ]
+D:\ADA_practicas\practica_5\practica_5\practica_5.cpp(58,1): message : al compilar la función del miembro clase plantilla "void NeuralNetwork<double>::connectLayers(void)"
+D:\ADA_practicas\practica_5\practica_5\practica_5.cpp(79,36): message : Vea la referencia a la creación de una instancia de la función plantilla "void NeuralNetwork<double>::connectLayers(void)" que se está compilando
+D:\ADA_practicas\practica_5\practica_5\practica_5.cpp(76,45): message : Vea la referencia a la creación de una instancia de clase plantilla "NeuralNetwork<double>" que se está compilando
+  practica_5.vcxproj -> D:\ADA_practicas\practica_5\x64\Debug\practica_5.exe
